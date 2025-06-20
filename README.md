@@ -23,6 +23,7 @@ Optional: Flask / Node.js for Web UI, Firebase / MySQL for data storage
 
 📁 Folder Structure
 traffic-signal-optimizer/
+
 ├── hardware/            
 ├── code/               
 ├── web-dashboard/      
@@ -49,7 +50,7 @@ Connect with Google Maps APIs for dynamic rerouting
 Ande Abhilash
 Email: andeabhilash123@gmail.com
 GitHub:https://github.com/ABabhilashande
-LinkedIn: linkedin.com/in/ande-abhilash-5a1351273
+LinkedIn: https://www.linkedin.com/in/ande-abhilash-5a1351273/
 
 
 
